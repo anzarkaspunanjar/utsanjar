@@ -1,0 +1,6 @@
+Data Pemantauan Covid19 wilayah JAWA BARAT
+per 23-April-2020 21:14:33
+Muhamad Kaspunanjar/171011401148
+
+Positif | Dirawat | Sembuh | Meninggal
+2902 | 1769 | 206 | 257
